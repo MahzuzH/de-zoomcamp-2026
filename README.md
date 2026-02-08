@@ -43,3 +43,31 @@ This repository focuses on the following modules from the Zoomcamp:
 05-data-platforms/
 06-batch/
 07-streaming/
+```
+
+## 🎯 Purpose
+
+This repository serves as:
+- A personal learning log
+- A reference for future projects
+- A portfolio showcase of my data engineering journey
+
+---
+
+## 🚧 Status
+
+🟡 **In progress** — materials will be updated continuously as I progress through the Zoomcamp.
+
+---
+
+## 🙌 Credits
+
+- **DataTalksClub** — for organizing the Data Engineering Zoomcamp
+- Instructors and contributors of the Zoomcamp materials
+
+---
+
+## 📌 Disclaimer
+
+This repository is intended for **educational purposes only**.  
+All credits for the course content belong to DataTalksClub and respective instructors.
