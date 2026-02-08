@@ -2,62 +2,44 @@
 
 This repository contains my learning materials, notes, and hands-on exercises from the **Data Engineering Zoomcamp** organized by **DataTalksClub**.
 
-I am currently following this Zoomcamp to build a strong foundation in data engineering, covering both theoretical concepts and practical, end-to-end data pipeline implementations.
+I am currently following this Zoomcamp to build a solid foundation in data engineering through practical implementations and real-world workflows.
 
 ---
 
-## 📚 About the Zoomcamp
+## 📚 Topics Covered
 
-The **Data Engineering Zoomcamp by DataTalksClub** is a hands-on program focused on modern data engineering tools and workflows, including:
+This repository focuses on the following modules from the Zoomcamp:
 
-- Data ingestion and orchestration
-- Data warehouses and data lakes
-- SQL and data modeling
-- Batch and streaming pipelines
-- Cloud infrastructure and deployment
-- End-to-end data projects
+- **Docker & Terraform**  
+  Containerization, infrastructure-as-code, and cloud resource provisioning
+
+- **Workflow Orchestration**  
+  Building and scheduling data pipelines using workflow orchestration tools
+
+- **Data Warehouse**  
+  Analytical databases, warehouse concepts, and querying large-scale datasets
+
+- **Analytics Engineering**  
+  Transforming raw data into analytics-ready datasets using modeling best practices
+
+- **Data Platforms**  
+  Understanding modern data platform architectures and components
+
+- **Batch Processing**  
+  Batch data pipelines and processing large volumes of data
+
+- **Streaming**  
+  Real-time data processing and streaming pipelines
 
 ---
 
 ## 📂 Repository Structure
 
-The repository is organized by modules/weeks, following the Zoomcamp curriculum structure.  
-Each folder may contain:
-
-- Lecture notes
-- SQL queries
-- Python scripts
-- Jupyter notebooks
-- Configuration files (Docker, Terraform, etc.)
-- Mini-projects and exercises
-
-The structure may evolve as the course progresses.
-
----
-
-## 🎯 Purpose
-
-This repository serves as:
-- A personal learning log
-- A reference for future projects
-- A portfolio showcase of my data engineering journey
-
----
-
-## 🚧 Status
-
-🟡 **In progress** — materials will be updated continuously as I progress through the Zoomcamp.
-
----
-
-## 🙌 Credits
-
-- **DataTalksClub** — for organizing the Data Engineering Zoomcamp
-- Instructors and contributors of the Zoomcamp materials
-
----
-
-## 📌 Disclaimer
-
-This repository is intended for **educational purposes only**.  
-All credits for the course content belong to DataTalksClub and respective instructors.
+```text
+01-docker-terraform/
+02-workflow-orchestration/
+03-data-warehouse/
+04-analytics-engineering/
+05-data-platforms/
+06-batch/
+07-streaming/
